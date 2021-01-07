@@ -2,6 +2,10 @@
 
 Hi everyone! Welcome to Vincent's school project.
 
-I am currenly looking for full-stack web developer internships or full-time jobs.
+Short description about the project:
 
-If you would like to help me out, please write me email at Wencheng.Zhao@baruchmail.cuny.edu, much appreciated!
+•	Distributed banking system with storage, index, and query functioning, highly scalable and Fault tolerant platform
+•	Parallel Algorithms based on Java, concepts of Distributed Systems, Distributed Computing, Architecture
+•	Database using MySQL, deployed it to Google Cloud Platform
+
+If you have any questions, let me know, thanks!
